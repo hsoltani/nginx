@@ -1,0 +1,15 @@
+name: nginx
+home: https://github.com/hsoltani/nginx
+icon: https://nginx.org/nginx.png
+version: 0.0.1
+appVersion: latest
+description: 'A project for centos'
+keywords:
+  - nginx
+  - nginx
+  - server
+sources:
+  - https://github.com/hsoltani/nginx
+maintainers:
+  - name: 'Hannaneh Soltani'
+    email: hannanehsoltani@gmail.com
