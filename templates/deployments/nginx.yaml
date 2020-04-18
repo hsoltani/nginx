@@ -45,8 +45,8 @@ spec:
             - name: data
               mountPath: /_data
             - name: data
-              mountPath: '//'
-              subPath: /
+              mountPath: '/data'
+              subPath: data
           env: []
           livenessProbe:
             tcpSocket:
